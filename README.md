@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋... I am initializing my GitHub profile as I prepare for a Data Science bootcamp starting in July!
 
 <!--
 **Scavo1225/Scavo1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
