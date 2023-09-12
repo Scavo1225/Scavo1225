@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **data science projects** to expand my knowledge and experience
 
-- 💬 Ask me Cincinnati sports 🐯, any trivia questions (that's not music related) 💡, and renewable energy 🌱🌞
+- 💬 Ask me about Cincinnati 🐯, any trivia questions 💡, and renewable energy 🌱🌞
 
 - 📫 How to reach me **bryanscavo.data@gmail.com**
  
