@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bryan Scavo</h1>
-<h3 align="center">I'm a dedicated data analyst diving into the world of data, a history and movie nerd with a passion for sports and video games</h3>
-
-- 👯 I’m looking to collaborate on **data science projects** to expand my knowledge and experience
-
-- 📫 How to reach me **bryanscavo.data@gmail.com**
-
-- ⚡ Fun fact **I spend about half the year continuously analyzing NFL statistics for fantasy football**
+<h3 align="center">I'm a dedicated data analyst diving into the world of data, a history and movie nerd with a passion for sports, trivia, and video games ⚾🎮</h3>
 
 - 🚀 Recent **Le Wegon Data Science and Manchine Learning** bootcamp graduate
 
-- 💬 Ask me about geology 🌎 🌋, energy systems 🌁
+- 👯 I’m looking to collaborate on **data science projects** to expand my knowledge and experience
+
+- 💬 Ask me Cincinnati sports 🐯, any trivia questions (that's not music related) 💡, and renewable energy 🌱🌞
+
+- 📫 How to reach me **bryanscavo.data@gmail.com**
+ 
+- ⚡ Fun fact **I spend about half the year continuously analyzing NFL statistics for fantasy football** and have been a the commissioner for a 14 person league for over **10 years** 🏈
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
