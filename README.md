@@ -7,7 +7,7 @@
 
 - 💬 Ask me about Cincinnati 🐯, any trivia questions 💡, and renewable energy 🌱🌞
 
-- 📫 How to reach me **bryanscavo.data@gmail.com**
+- 📫 How to reach me **bryan.scavo@gmail.com**
  
 - ⚡ Fun fact **I spend about half the year continuously analyzing NFL statistics for fantasy football** and have been a the commissioner for a 14 person league for over **10 years** 🏈
 
